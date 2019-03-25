@@ -26,8 +26,8 @@ GEM
     multi_json (1.11.1)
     netrc (0.10.3)
     newrelic_rpm (3.12.1.298)
-    rack (1.6.4)
-    rack-protection (1.5.3)
+    rack (1.6.11)
+    rack-protection (1.5.5)
       rack
     rest-client (1.8.0)
       http-cookie (>= 1.0.2, < 2.0)
