@@ -1,6 +1,6 @@
 ## YogiFilla
 
-https://yogifil.la
+https://yogifilla.herokuapp.com
 
 ### To Do
 
