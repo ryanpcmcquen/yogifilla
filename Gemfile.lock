@@ -12,10 +12,12 @@ GEM
     mustermann (2.0.2)
       ruby2_keywords (~> 0.0.1)
     newrelic_rpm (7.0.0)
+    pkg-config (1.5.5)
     rack (2.2.6.4)
     rack-protection (2.2.3)
       rack
-    rmagick (4.2.2)
+    rmagick (5.3.0)
+      pkg-config (~> 1.4)
     ruby2_keywords (0.0.5)
     sinatra (2.2.3)
       mustermann (~> 2.0)
